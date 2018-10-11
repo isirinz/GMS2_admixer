@@ -615,7 +615,7 @@
             "uncompress": false
         }
     ],
-    "gradleinject": "   compile 'com.google.android.gms:play-services-games:11.8.0'\\u000d\\u000a   compile 'com.google.android.gms:play-services-ads:11.8.0'\\u000d\\u000a   compile 'com.google.android.gms:play-services-plus:11.8.0'\\u000d\\u000a   compile 'com.google.android.gms:play-services-gcm:11.8.0'\\u000d\\u000a   compile 'com.google.android.gms:play-services-auth:11.8.0'\\u000d\\u000a   compile 'com.google.android.ads.consent:consent-library:1.0.3'\\u000d\\u000a   compile fileTree(dir: 'libs', include: ['*.jar'])\\u000d\\u000a}\\u000d\\u000arepositories\\u000d\\u000a{\\u000d\\u000a  maven\\u000d\\u000a  {\\u000d\\u000a    url \"https:\/\/maven.google.com\"\\u000d\\u000a  }\\u000d\\u000a}\\u000d\\u000adependencies\\u000d\\u000a{\\u000d\\u000a\\u000d\\u000a",
+    "gradleinject": "   compile 'com.google.android.gms:play-services-games:11.8.0'\\u000a\\u000d   compile 'com.google.android.gms:play-services-ads:11.8.0'\\u000a\\u000d   compile 'com.google.android.gms:play-services-plus:11.8.0'\\u000a\\u000d   compile 'com.google.android.gms:play-services-gcm:11.8.0'\\u000a\\u000d   compile 'com.google.android.gms:play-services-auth:11.8.0'\\u000a\\u000d   compile 'com.google.android.ads.consent:consent-library:1.0.3'\\u000a\\u000d   compile fileTree(dir: 'libs', include: ['*.jar'])\\u000a\\u000d}\\u000a\\u000drepositories\\u000a\\u000d{\\u000a\\u000d  maven\\u000a\\u000d  {\\u000a\\u000d    url \"https:\/\/maven.google.com\"\\u000a\\u000d  }\\u000a\\u000d}\\u000a\\u000ddependencies\\u000a\\u000d{\\u000a\\u000d\\u000a\\u000d",
     "helpfile": "",
     "installdir": "",
     "iosProps": true,
@@ -686,7 +686,7 @@
             "weakReference": false
         }
     ],
-    "iosplistinject": "<key>NSAppTransportSecurity<\/key>\\u000d\\u000a<dict>\\u000d\\u000a    <key>NSAllowsArbitraryLoads<\/key>\\u000d\\u000a    <true\/>\\u000d\\u000a    <key>NSAllowsArbitraryLoadsForMedia<\/key>\\u000d\\u000a    <true\/>\\u000d\\u000a    <key>NSAllowsArbitraryLoadsInWebContent<\/key>\\u000d\\u000a    <true\/>\\u000d\\u000a<\/dict>",
+    "iosplistinject": "<key>NSAppTransportSecurity<\/key>\\u000a\\u000d<dict>\\u000a\\u000d    <key>NSAllowsArbitraryLoads<\/key>\\u000a\\u000d    <true\/>\\u000a\\u000d    <key>NSAllowsArbitraryLoadsForMedia<\/key>\\u000a\\u000d    <true\/>\\u000a\\u000d    <key>NSAllowsArbitraryLoadsInWebContent<\/key>\\u000a\\u000d    <true\/>\\u000a\\u000d<\/dict>",
     "license": "Free to use, also for commercial games.",
     "maccompilerflags": "",
     "maclinkerflags": "",

@@ -13,7 +13,7 @@
     "androidProps": true,
     "androidactivityinject": "",
     "androidclassname": "Admixer",
-    "androidinject": "<meta-data android:name=\"com.google.android.gms.version\"\\u000aandroid:value=\"@integer\/google_play_services_version\" \/>\\u000a",
+    "androidinject": "<meta-data android:name=\"com.google.android.gms.version\"\\u000dandroid:value=\"@integer\/google_play_services_version\" \/>\\u000d",
     "androidmanifestinject": "",
     "androidsourcedir": "",
     "author": "",
