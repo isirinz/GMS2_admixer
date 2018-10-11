@@ -3,6 +3,8 @@ Game Maker Studio 2 에서 admixer 광고
 
 # 사용법
 
+애드몹 초기화
+
 GoogleMobileAds_Init("애드몹 전면 광고 unit ID", "애드몹 앱 ID");
 
 상단 배너 노출
